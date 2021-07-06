@@ -1,7 +1,8 @@
 # Tiny URLs
 
 Tiny URLs is a simple URLs shortener API.
-This API is free to use and do not have rate limit
+
+This API is free to use and do not have rate limit.
 
 ## Generating short URLs
 
