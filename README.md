@@ -1,6 +1,6 @@
-# Tiny urls
+# Tiny URLs
 
-Tiny urls is a simple URLs shortener API.
+Tiny URLs is a simple URLs shortener API.
 
 ## Generating short URLs
 
