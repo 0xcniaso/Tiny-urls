@@ -22,8 +22,3 @@ You can alter the response format by passing in a `format` query parameter.
     https://tinyurls.gq/?url=http://www.google.com&format=text
 
 The possible formats are `html`, `xml`, `text`, and `json`.
-
-## Usage with different langages
-
-In the example folder you will find some examples about how to use this api with
-different programing languages i.e. Python,C#,PHP
